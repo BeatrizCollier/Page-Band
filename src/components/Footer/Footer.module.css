@@ -1,0 +1,15 @@
+:root {
+    --cor-header: #222;
+    --cor-texto: #fff;
+    --padding-padrao: 1rem;
+    --fonte-padrao: Arial, sans-serif;
+}
+
+
+.footer{
+    background-color: var(--cor-header);
+    text-align: center;
+    padding: var(--padding-padrao);
+    font-family: var(--fonte-padrao);
+    color: var(--cor-texto);
+}

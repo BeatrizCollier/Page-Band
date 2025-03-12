@@ -1,0 +1,16 @@
+.band {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--margin-padrao);
+}
+
+.image {
+    width: var(--largura-imagens);
+    height: var(--altura-imagens);
+    object-fit: cover;
+    margin-right: var(--margin-padrao);
+}
+
+.info {
+    flex: 1;
+}
